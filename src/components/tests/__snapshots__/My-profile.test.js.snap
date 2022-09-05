@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`to test the rockets elements matches DOM rockets snapshot 1`] = `
+<div
+  className="myprofileContainer"
+>
+  <div
+    className="rocketDiv"
+  >
+    <h2>
+      My Rockets
+    </h2>
+    <p
+      className="rocketDesc"
+    >
+      No Rockets
+    </p>
+  </div>
+  <div
+    className="dragonDiv"
+  >
+    <h2>
+      My Dragons
+    </h2>
+    <p
+      className="dragonDesc"
+    >
+      No Dragons
+    </p>
+  </div>
+  <div
+    className="missionsDiv"
+  >
+    <div>
+      <h2>
+        My Missions
+      </h2>
+      <div
+        className="content"
+      >
+        <p
+          className="missionDesc"
+        >
+          No Missions
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;

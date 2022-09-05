@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dragonItem {
+  display: flex;
+  margin: 4vh 5vw;
+}
+
+.dragonImg {
+  width: 290px;
+}
+
+.imgFlickr {
+  width: 90%;
+}
+
+.dragonInfo {
+  padding: 0 2vw;
+}
+
+.badge {
+  border: none;
+  border-radius: 3px;
+  padding: 0.3em 0.5em;
+  margin-right: 1em;
+  background-color: #b82e18;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: bold;
+}
+
+.dragonType {
+  padding: 2vh 0;
+}
+
+.reserveBtn {
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  background-color: #0290ff;
+  padding: 0.5em 1em;
+  font-size: 0.813rem;
+  font-weight: bold;
+  line-height: 1.25rem;
+  letter-spacing: 0.5px;
+  text-align: center;
+  color: #fff;
+  cursor: pointer;
+}
+
+.cancelBtn {
+  border: 1px solid grey;
+  border-radius: 4px;
+  text-decoration: none;
+  background-color: #fff;
+  padding: 0.5em 1em;
+  font-size: 0.813rem;
+  font-weight: bold;
+  line-height: 1.25rem;
+  letter-spacing: 0.3px;
+  text-align: center;
+  color: grey;
+  cursor: pointer;
+}

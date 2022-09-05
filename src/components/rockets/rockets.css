@@ -1,0 +1,67 @@
+.rocketDiv {
+  display: grid;
+  grid-template-columns: 1.25fr 2.9fr;
+  grid-column-gap: 0.5rem;
+  grid-row-gap: 0.5rem;
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+.imgRocket {
+  display: flex;
+  width: 290px;
+}
+
+.imgRocket > img {
+  width: 100%;
+}
+
+.descDiv {
+  display: flex;
+  flex-direction: column;
+  margin-left: 0.6rem;
+}
+
+.reservationBtn {
+  width: 190px;
+  height: 29px;
+  background-color: rgb(49, 137, 189);
+  border-style: none;
+  color: white;
+  border-radius: 6px;
+  font-size: 1rem;
+  margin-top: 2.7rem;
+}
+
+.cancelBtn {
+  width: 190px;
+  height: 29px;
+  background-color: rgb(222, 226, 230);
+  border-style: none;
+  color: rgb(40, 137, 161);
+  border-radius: 6px;
+  font-size: 1rem;
+  margin-top: 2.7rem;
+}
+
+.badgeBtn {
+  border: none;
+  border-radius: 3px;
+  padding: 0.3em 0.5em;
+  margin-right: 1em;
+  background-color: #b82e18;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: bold;
+  line-height: 0.7rem;
+}
+
+.desc {
+  font-size: 1rem;
+  font-weight: 400;
+  font-stretch: normal;
+  line-height: 1.7rem;
+  text-align: left;
+  margin-top: 1rem;
+}

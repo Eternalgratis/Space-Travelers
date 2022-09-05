@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.myprofileContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.rocketDiv,
+.dragonDiv,
+.missionsDiv {
+  margin: 0;
+  padding: 10vh 1vw;
+  width: 25vw;
+}
+
+.rocketDesc,
+.dragonDesc,
+.missionDesc {
+  border: 1px solid lightgray;
+  width: 100%;
+  margin: 0;
+  padding: 1rem;
+}

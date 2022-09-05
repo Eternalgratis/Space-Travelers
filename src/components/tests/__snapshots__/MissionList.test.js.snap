@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyMissionList components MissionList Components Renders correctly 1`] = `
+<div
+  className="container-fluid container"
+>
+  <table
+    className="table"
+  >
+    <thead>
+      <tr>
+        <th>
+          Missions
+        </th>
+        <th>
+          Description
+        </th>
+        <th>
+          Status
+        </th>
+      </tr>
+    </thead>
+    <tbody />
+  </table>
+</div>
+`;
